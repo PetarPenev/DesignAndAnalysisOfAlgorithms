@@ -1,0 +1,6 @@
+D:\algorithms\Week1\Inversions\InversionApp\bin\Debug\InversionApp.exe.config
+D:\algorithms\Week1\Inversions\InversionApp\bin\Debug\InversionApp.exe
+D:\algorithms\Week1\Inversions\InversionApp\bin\Debug\InversionApp.pdb
+D:\algorithms\Week1\Inversions\InversionApp\obj\Debug\InversionApp.csprojResolveAssemblyReference.cache
+D:\algorithms\Week1\Inversions\InversionApp\obj\Debug\InversionApp.exe
+D:\algorithms\Week1\Inversions\InversionApp\obj\Debug\InversionApp.pdb
