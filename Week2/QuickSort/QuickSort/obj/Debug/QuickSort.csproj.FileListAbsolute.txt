@@ -1,0 +1,6 @@
+D:\algorithms\Week2\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\algorithms\Week2\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\algorithms\Week2\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\algorithms\Week2\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\algorithms\Week2\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\algorithms\Week2\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
