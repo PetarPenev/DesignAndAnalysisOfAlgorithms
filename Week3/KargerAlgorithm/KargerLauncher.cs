@@ -86,8 +86,6 @@ namespace KargerAlgorithm
 
             intermediateInputNodeList.RemoveAt(edges.Item2);
 
-            var node = intermediateInputNodeList.Where(n => n.Edges.Any(edge => edge == edges.Item2));
-
             for (int i = 0; i < intermediateInputNodeList.Count; i++)
             {
                 for (int j = 0; j < intermediateInputNodeList[i].Edges.Count; j++)
@@ -98,8 +96,6 @@ namespace KargerAlgorithm
                     }
                 }
             }
-
-            node = intermediateInputNodeList.Where(n => n.Edges.Any(edge => edge == edges.Item2));
         }
 
         private static Tuple<int, int> ChooseRandomEdge(List<Vertex> intermediateInputNodeList)
