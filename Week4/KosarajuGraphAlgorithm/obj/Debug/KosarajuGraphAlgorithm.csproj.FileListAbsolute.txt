@@ -1,0 +1,6 @@
+D:\algorithms\Week4\KosarajuGraphAlgorithm\bin\Debug\KosarajuGraphAlgorithm.exe.config
+D:\algorithms\Week4\KosarajuGraphAlgorithm\bin\Debug\KosarajuGraphAlgorithm.exe
+D:\algorithms\Week4\KosarajuGraphAlgorithm\bin\Debug\KosarajuGraphAlgorithm.pdb
+D:\algorithms\Week4\KosarajuGraphAlgorithm\obj\Debug\KosarajuGraphAlgorithm.csprojResolveAssemblyReference.cache
+D:\algorithms\Week4\KosarajuGraphAlgorithm\obj\Debug\KosarajuGraphAlgorithm.exe
+D:\algorithms\Week4\KosarajuGraphAlgorithm\obj\Debug\KosarajuGraphAlgorithm.pdb
